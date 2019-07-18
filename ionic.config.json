@@ -1,5 +1,7 @@
 {
   "name": "Tabs3Scroll",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
